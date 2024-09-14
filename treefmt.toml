@@ -1,0 +1,5 @@
+[formatter.shfmt]
+command = "shfmt"
+options = ["-s", "-w"]
+includes = ["*.sh"]
+priority = 1
